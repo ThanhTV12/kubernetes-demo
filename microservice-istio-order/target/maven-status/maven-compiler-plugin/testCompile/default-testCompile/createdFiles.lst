@@ -1,0 +1,8 @@
+com/ewolff/microservice/order/FeedClientTest.class
+com/ewolff/microservice/order/logic/OrderWebIntegrationTest.class
+com/ewolff/microservice/order/ItemTestDataGeneratorTest.class
+com/ewolff/microservice/order/OrderTestDataGenerator.class
+com/ewolff/microservice/order/logic/OrderServiceTest.class
+com/ewolff/microservice/order/PactTest.class
+com/ewolff/microservice/order/CustomerTestDataGeneratorTest.class
+com/ewolff/microservice/order/OrderTestApp.class

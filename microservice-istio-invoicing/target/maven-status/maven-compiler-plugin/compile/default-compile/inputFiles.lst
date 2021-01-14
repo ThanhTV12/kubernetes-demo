@@ -1,0 +1,13 @@
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-invoicing/src/main/java/com/ewolff/microservice/invoicing/InvoiceApp.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-invoicing/src/main/java/com/ewolff/microservice/invoicing/InvoiceService.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-invoicing/src/main/java/com/ewolff/microservice/invoicing/Invoice.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-invoicing/src/main/java/com/ewolff/microservice/invoicing/web/InvoiceController.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-invoicing/src/main/java/com/ewolff/microservice/invoicing/poller/OrderFeed.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-invoicing/src/main/java/com/ewolff/microservice/invoicing/poller/InvoicePoller.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-invoicing/src/main/java/com/ewolff/microservice/invoicing/InvoiceRepository.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-invoicing/src/main/java/com/ewolff/microservice/invoicing/Item.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-invoicing/src/main/java/com/ewolff/microservice/invoicing/Address.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-invoicing/src/main/java/com/ewolff/microservice/invoicing/poller/OrderFeedEntry.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-invoicing/src/main/java/com/ewolff/microservice/invoicing/Customer.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-invoicing/src/main/java/com/ewolff/microservice/invoicing/web/PollController.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-invoicing/src/main/java/com/ewolff/microservice/invoicing/InvoiceLine.java

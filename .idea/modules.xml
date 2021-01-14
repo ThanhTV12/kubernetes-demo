@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microservice-istio.iml" filepath="$PROJECT_DIR$/microservice-istio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-istio-invoicing/microservice-istio-invoicing.iml" filepath="$PROJECT_DIR$/microservice-istio-invoicing/microservice-istio-invoicing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-istio-order/microservice-istio-order.iml" filepath="$PROJECT_DIR$/microservice-istio-order/microservice-istio-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-istio-shipping/microservice-istio-shipping.iml" filepath="$PROJECT_DIR$/microservice-istio-shipping/microservice-istio-shipping.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-order/src/test/java/com/ewolff/microservice/order/OrderTestApp.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-order/src/test/java/com/ewolff/microservice/order/FeedClientTest.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-order/src/test/java/com/ewolff/microservice/order/ItemTestDataGeneratorTest.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-order/src/test/java/com/ewolff/microservice/order/CustomerTestDataGeneratorTest.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-order/src/test/java/com/ewolff/microservice/order/OrderTestDataGenerator.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-order/src/test/java/com/ewolff/microservice/order/PactTest.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-order/src/test/java/com/ewolff/microservice/order/logic/OrderWebIntegrationTest.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-order/src/test/java/com/ewolff/microservice/order/logic/OrderServiceTest.java

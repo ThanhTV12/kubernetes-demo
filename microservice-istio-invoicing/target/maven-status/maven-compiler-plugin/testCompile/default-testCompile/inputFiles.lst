@@ -1,0 +1,4 @@
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-invoicing/src/test/java/com/ewolff/microservice/invoicing/InvoiceTestApp.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-invoicing/src/test/java/com/ewolff/microservice/invoicing/InvoicingServiceTest.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-invoicing/src/test/java/com/ewolff/microservice/invoicing/InvoiceWebIntegrationTest.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-invoicing/src/test/java/com/ewolff/microservice/invoicing/PollingTest.java

@@ -1,0 +1,13 @@
+com/ewolff/microservice/invoicing/InvoiceService.class
+com/ewolff/microservice/invoicing/Address.class
+com/ewolff/microservice/invoicing/web/PollController.class
+com/ewolff/microservice/invoicing/web/InvoiceController.class
+com/ewolff/microservice/invoicing/poller/OrderFeed.class
+com/ewolff/microservice/invoicing/Invoice.class
+com/ewolff/microservice/invoicing/InvoiceLine.class
+com/ewolff/microservice/invoicing/InvoiceApp.class
+com/ewolff/microservice/invoicing/InvoiceRepository.class
+com/ewolff/microservice/invoicing/poller/InvoicePoller.class
+com/ewolff/microservice/invoicing/Customer.class
+com/ewolff/microservice/invoicing/Item.class
+com/ewolff/microservice/invoicing/poller/OrderFeedEntry.class

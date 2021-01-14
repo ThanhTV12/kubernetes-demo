@@ -1,0 +1,4 @@
+com/ewolff/microservice/shipping/ShippingWebIntegrationTest.class
+com/ewolff/microservice/shipping/PollingTest.class
+com/ewolff/microservice/shipping/ShippingServiceTest.class
+com/ewolff/microservice/shipping/ShippingTestApp.class

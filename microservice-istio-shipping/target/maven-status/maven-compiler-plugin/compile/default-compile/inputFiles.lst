@@ -1,0 +1,13 @@
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-shipping/src/main/java/com/ewolff/microservice/shipping/Item.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-shipping/src/main/java/com/ewolff/microservice/shipping/Customer.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-shipping/src/main/java/com/ewolff/microservice/shipping/poller/ShippingPoller.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-shipping/src/main/java/com/ewolff/microservice/shipping/ShipmentLine.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-shipping/src/main/java/com/ewolff/microservice/shipping/Shipment.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-shipping/src/main/java/com/ewolff/microservice/shipping/ShippingApp.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-shipping/src/main/java/com/ewolff/microservice/shipping/poller/OrderFeed.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-shipping/src/main/java/com/ewolff/microservice/shipping/ShipmentService.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-shipping/src/main/java/com/ewolff/microservice/shipping/Address.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-shipping/src/main/java/com/ewolff/microservice/shipping/ShipmentRepository.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-shipping/src/main/java/com/ewolff/microservice/shipping/web/PollController.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-shipping/src/main/java/com/ewolff/microservice/shipping/poller/OrderFeedEntry.java
+/home/admin-thinkpad/workspace/pratice/kubermetes/kubernetes-demo/microservice-istio-shipping/src/main/java/com/ewolff/microservice/shipping/web/ShippingController.java

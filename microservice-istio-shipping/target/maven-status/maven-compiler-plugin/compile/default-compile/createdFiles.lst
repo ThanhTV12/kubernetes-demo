@@ -1,0 +1,13 @@
+com/ewolff/microservice/shipping/poller/OrderFeedEntry.class
+com/ewolff/microservice/shipping/Item.class
+com/ewolff/microservice/shipping/Shipment.class
+com/ewolff/microservice/shipping/web/PollController.class
+com/ewolff/microservice/shipping/ShippingApp.class
+com/ewolff/microservice/shipping/ShipmentRepository.class
+com/ewolff/microservice/shipping/web/ShippingController.class
+com/ewolff/microservice/shipping/Customer.class
+com/ewolff/microservice/shipping/Address.class
+com/ewolff/microservice/shipping/ShipmentService.class
+com/ewolff/microservice/shipping/poller/ShippingPoller.class
+com/ewolff/microservice/shipping/poller/OrderFeed.class
+com/ewolff/microservice/shipping/ShipmentLine.class
